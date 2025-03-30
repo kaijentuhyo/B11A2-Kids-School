@@ -75,4 +75,51 @@
 
 /* Navbar Section Styles Ends */
 
+/* Banner Section Styles Starts */
+
+.banner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 140px 0 140px;
+    border: 1px solid black;
+}
+
+.banner-content {
+    max-width: 640px;
+}
+
+.banner img {
+    width: 465px;
+}
+
+.banner-title {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+#empowering {
+    color: #FEA301;
+}
+
+#towards-vision {
+    color: #01ACFD;
+}
+
+.banner-description {
+    font-size: 20px;
+}
+
+.banner-btn {
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 12px;
+    padding: 10px 47px;
+}
+
+/* Banner Section Styles Ends */
+
 /* Header Section Styles Ends */
